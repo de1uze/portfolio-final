@@ -1,0 +1,64 @@
+{
+    "basic_info": {
+      "name": "Hello, I am Pratik.",
+      "titles": [ "Front-End Developer", "Software engineer", "Penetration Tester " ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/de1uze",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/pratik9423/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "mail",
+          "url": "mailto: shringarpure95@gmail.com",
+          "class": "far fa-paper-plane"
+        },
+        {
+          "name": "Resume",
+          "url": "/Resume.pdf",
+          "class": "far fa-file-pdf"
+        }
+
+      ],
+      "image": "pratik.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React JS",
+          "class": "devicon-react-original",
+          "level": "70"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }
